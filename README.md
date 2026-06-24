@@ -1,6 +1,6 @@
 # Estimación anticipada del riesgo de mercado mediante Machine Learning: comparativa de modelos supervisados sobre el S&P 500
 
-Proyecto de **Trabajo Fin de Máster** (Máster en Inteligencia Artificial). El objetivo no es predecir precios ni retornos, sino **anticipar episodios futuros de riesgo** en el mercado estadounidense usando el S&P 500 como referencia.
+Proyecto de **TFE** (Máster en Inteligencia Artificial). El objetivo no es predecir precios ni retornos, sino **anticipar episodios futuros de riesgo** en el mercado estadounidense usando el S&P 500 como referencia.
 
 Modalidad: **comparativa de soluciones** (baselines, regresión logística, árboles) sobre un mismo target bien definido, con validación temporal e interpretación de errores.
 
