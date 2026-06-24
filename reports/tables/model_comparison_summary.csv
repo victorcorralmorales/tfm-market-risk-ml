@@ -1,0 +1,11 @@
+modelo,split,f1,precision,recall,pr_auc,C,threshold
+VIX rule,validation,0.3556,0.3128,0.4118,,,
+VIX rule,test,0.542,0.4017,0.833,,,
+LogReg best all_features,validation,0.4468,0.4315,0.4632,0.3582,0.1,0.91
+LogReg best all_features,test,0.4384,0.2828,0.9755,0.305,0.1,0.91
+LogReg best reduced_no_level,validation,0.3746,0.3081,0.4779,0.2489,0.01,0.44
+LogReg best reduced_no_level,test,0.5525,0.4106,0.8441,0.6309,0.01,0.44
+RandomForest (best),validation,0.4094,0.3398,0.5147,0.2982,,
+RandomForest (best),test,0.5198,0.3806,0.8196,0.629,,
+XGBoost (best),validation,0.5368,0.5368,0.5368,0.4363,,
+XGBoost (best),test,0.4923,0.4839,0.5011,0.54,,
